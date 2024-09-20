@@ -30,6 +30,11 @@ export default function RootLayout({
       >
         {children}
       </body>
+      <script
+        defer
+        src="https://umi.gokay.works/script.js"
+        data-website-id="62cbf3b6-a7e5-4c55-b474-2029d80a1cd6"
+      ></script>
     </html>
   );
 }
